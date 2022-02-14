@@ -1,7 +1,7 @@
 # Here are Boyfriend's voicebanks and chromatics in Friday Night Funkin' that I have
 ## Original voicebank creators:
-- [Blantados](https://github.com/Blantados/blantados-funkin-utau-main)
-- [GenoX](https://github.com/GenoX-Fome/funkin-utau)
+- [Blantados](https://github.com/Blantados/blantados-funkin-utau-main) - [Original repository](https://github.com/Blantados/blantados-funkin-utau-main)
+- [GenoX](https://github.com/GenoX-Fome/funkin-utau) - [Original repository](https://github.com/GenoX-Fome/funkin-utau)
 - [Kawai Sprite](https://twitter.com/kawaisprite)
 ## Chromatics by
 - [Kawai Sprite](https://twitter.com/kawaisprite) - [Chromatic scale folder](https://drive.google.com/drive/folders/1XndrqjB48K3HTj0V3l0HSUGtCttRfiH9)
